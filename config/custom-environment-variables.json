@@ -1,0 +1,17 @@
+{
+  "port": "",
+
+  "db": {
+    "url": "DB_URL"
+  },
+
+  "auth": {
+    "secret": "AUTH_TOKEN"
+  },
+
+  "cloudinary": {
+    "cloudName": "CLOUDINARY_CLOUD_NAME",
+    "apiKey": "CLOUINARY_API_KEY",
+    "apiSecret": "CLOUDINARY_API_SECRET"
+  }
+}

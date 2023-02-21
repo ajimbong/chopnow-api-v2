@@ -1,0 +1,17 @@
+{
+    "port": "",
+
+    "db": {
+        "url" : ""
+    },
+
+    "auth": {
+        "secret" : ""
+    },
+
+    "cloudinary": {
+        "cloudName": "",
+        "apiKey": "",
+        "apiSecret": ""
+    }
+}
